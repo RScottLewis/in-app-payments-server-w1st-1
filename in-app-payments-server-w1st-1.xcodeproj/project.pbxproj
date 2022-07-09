@@ -6,10 +6,21 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXFileReference section */
+		36064A6228791726006F9AB9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		36064A6328791726006F9AB9 /* package.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = package.json; sourceTree = "<group>"; };
+		36064A6428791726006F9AB9 /* index.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = index.js; sourceTree = "<group>"; };
+		36064A6528791726006F9AB9 /* app.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = app.json; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		36064A5B287916EA006F9AB9 = {
 			isa = PBXGroup;
 			children = (
+				36064A6528791726006F9AB9 /* app.json */,
+				36064A6428791726006F9AB9 /* index.js */,
+				36064A6328791726006F9AB9 /* package.json */,
+				36064A6228791726006F9AB9 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
